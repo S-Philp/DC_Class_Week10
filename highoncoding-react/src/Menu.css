@@ -1,0 +1,20 @@
+.menu {
+    background-color: #59b3f8;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    color: white;
+}
+
+.pageName {
+    margin-left: 20px;
+}
+
+.home {
+    margin: 20px;
+    color: white; 
+}
+
+.categories {
+    color: white; 
+}
