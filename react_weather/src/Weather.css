@@ -1,0 +1,9 @@
+.weather {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
